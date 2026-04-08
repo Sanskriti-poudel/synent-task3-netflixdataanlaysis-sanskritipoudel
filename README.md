@@ -53,17 +53,17 @@ Visualized results using a heatmap
    
 Content Type Distribution
 Countplot used to compare:
-Movies vs TV Shows
-Release Trend Over Years
-Line plot used to observe how content production changed over time
-Top Producing Countries
+Movies vs TV Shows,
+Release Trend Over Years,
+Line plot used to observe how content production changed over time,
+Top Producing Countries,
 Bar chart used to identify top 10 countries producing Netflix content
 
 Results:
 
-Movies are more common than TV shows on Netflix
-Content production has significantly increased in recent years
-A few countries dominate Netflix content production
-Certain ratings are more frequent depending on content type
-Categorical correlation shows relationships between content type, rating, and country
+Movies are more common than TV shows on Netflix,
+Content production has significantly increased in recent years,
+A few countries dominate Netflix content production,
+Certain ratings are more frequent depending on content type,
+Categorical correlation shows relationships between content type, rating, and country,
 Trends indicate Netflix’s growing investment in global and diverse content
